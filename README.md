@@ -5,7 +5,7 @@ I help brands and businesses transform their ideas into functional and user-frie
 
 - 😄 Pronouns: He/Him/His
 - 🔭 I’m currently working on FinTech and Web3-based Applications
-- 🌱 I’m currently learning Design Systems & DSA
+- 🌱 I’m currently learning the art of Design
 - 👥 I’m looking to collaborate on Open Source Projects
 - ⚡ Fun fact: Addicted to the brain-teasing game of chess
 
