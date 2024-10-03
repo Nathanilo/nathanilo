@@ -7,7 +7,7 @@ I help brands and businesses transform their ideas into functional and user-frie
 - 🔭 I’m currently working on FinTech and Web3-based Applications
 - 🌱 I’m currently learning the art of Design
 - 👥 I’m looking to collaborate on Open Source Projects
-- ⚡ Fun fact: Addicted to the brain-teasing game of chess
+- ⚡ Fun fact: World-class chess player
 
 ## 🛠️ Tech Stack
 - Languages & Technologies: ![HTML](https://img.shields.io/badge/HTML-000000?style=flat-square&logo=html5&logoColor=white)
