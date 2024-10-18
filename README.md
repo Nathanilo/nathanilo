@@ -5,7 +5,7 @@ I help brands and businesses transform their ideas into functional and user-frie
 
 - 😄 Pronouns: He/Him/His
 - 🔭 I’m currently working on FinTech and Web3-based Applications
-- 🌱 I’m currently learning about Web3 and Dapps
+- 🌱 I’m currently learning about Web3 and DApps
 - 👥 I’m looking to collaborate on interesting projects and Open Source Projects
 - ⚡ I play chess ♘ too sometimes when I'm not coding. Feel free to send me a challenge on <a href="https://lichess.org/@/B00gieman">Lichess</a> or <a href="https://www.chess.com/member/nathanilo">Chess.com</a>
 
