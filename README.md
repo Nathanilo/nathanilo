@@ -5,9 +5,9 @@ I help brands and businesses transform their ideas into functional and user-frie
 
 - 😄 Pronouns: He/Him/His
 - 🔭 I’m currently working on FinTech and Web3-based Applications
-- 🌱 I’m currently learning the art of Design
-- 👥 I’m looking to collaborate on Open Source Projects
-- ⚡ Fun fact: World-class chess player
+- 🌱 I’m currently learning about Web3 and Dapps
+- 👥 I’m looking to collaborate on interesting projects and Open Source Projects
+- ⚡ I play chess ♘ too sometimes when I'm not coding. Feel free to send me a challenge on <a href="https://lichess.org/@/B00gieman">Lichess</a> or <a href="https://www.chess.com/member/nathanilo">Chess.com</a>
 
 ## 🛠️ Tech Stack
 - Languages & Technologies: ![HTML](https://img.shields.io/badge/HTML-000000?style=flat-square&logo=html5&logoColor=white)
