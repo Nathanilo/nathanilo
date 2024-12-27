@@ -4,10 +4,10 @@ I'm Nathaniel Odion, a Frontend Engineer and Designer.<br/>
 I help brands and businesses transform their ideas into functional and user-friendly products.
 
 - 😄 Pronouns: He/Him/His
-- 🔭 I’m currently working on FinTech and Web3-based Applications
-- 🌱 I’m currently learning about Web3 and DApps
-- 👥 I’m looking to collaborate on interesting projects and Open Source Projects
-- ⚡ I play chess ♘ too sometimes when I'm not coding. Feel free to send me a challenge on <a href="https://lichess.org/@/B00gieman">Lichess</a> or <a href="https://www.chess.com/member/nathanilo">Chess.com</a>
+- 🔭 Currently Building:FinTech and Web3-based Applications
+- 🌱 Currently Learning:Web3 and DApps
+- 👥 Open to:Collaborating on interesting projects and contributing to Open Source
+- ⚡ I play chess ♘ too sometimes when I'm not coding. Feel free to send me a challenge on <a href="https://lichess.org/@/B00gieman">Lichess</a> or <a href="https://www.chess.com/member/nathanilo">Chess.com</a> 
 
 ## 🛠️ Tech Stack
 - Languages & Technologies: ![HTML](https://img.shields.io/badge/HTML-000000?style=flat-square&logo=html5&logoColor=white)
