@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Nathaniel Odion, a Frontend Engineer and Designer.<br/>
+I'm Nathaniel Odion, a Frontend Engineer based in Lagos, Nigeria.<br/>
 I help brands and businesses transform their ideas into functional and user-friendly products.
 
 - 😄 Pronouns: He/Him/His
